@@ -16,7 +16,7 @@
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world
 🔭 My name is Pavlo Hilei, I'm currently:
-- 3rd year student at [APPS UCU](https://apps.ucu.edu.ua/en/)
+- 4th year student at [APPS UCU](https://apps.ucu.edu.ua/en/)
 - Work at SoftServe R&D Lab
 - Work at ML lab at UCU
 - Interested at Data Science field
