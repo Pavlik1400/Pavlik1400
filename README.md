@@ -18,8 +18,9 @@
 🔭 My name is Pavlo Hilei, I'm currently:
 - 4th year student at [APPS UCU](https://apps.ucu.edu.ua/en/)
 - Work at SoftServe R&D Lab
-- Work at ML lab at UCU
+- Worked at ML lab at UCU
 - Interested at Data Science field
+- Interested at high performance programming and massively parallel systems
 
 🌱 Generaly I enjoy working with:
 - Linux administration, shell scripting
