@@ -15,18 +15,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlik1400&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world
-🔭 My name is Pavlo Hilei, I'm currently:
-- 4th year student at [APPS UCU](https://apps.ucu.edu.ua/en/)
+🔭 My name is Pavlo Hilei; I'm currently:
+- [APPS UCU](https://apps.ucu.edu.ua/en/) graduate
 - Work at SoftServe R&D Lab
 - Worked at ML lab at UCU
-- Interested at Data Science field
-- Interested at high performance programming and massively parallel systems
+- Interested in high-performance programming and massively parallel systems
+- Interested in Data Science field
 
-🌱 Generaly I enjoy working with:
+🌱 Generally I enjoy working with:
 - Linux administration, shell scripting
-- Classical computer vision, Deep neural networks with python
-- Parallel programing and writing efficient programs in C++ 
+- Parallel programming and writing efficient programs in C++
+- Heterogeneous computing (CUDA, HIP)
 - FPGA & Verilog
+- Classical computer vision, Deep neural networks with python
 
 Connect with me:
 
